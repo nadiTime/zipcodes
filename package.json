@@ -1,8 +1,8 @@
 {
-  "name": "zipcodes",
+  "name": "zipcodes-pt-fork",
   "description": "Useful zipcode database with helper methods",
   "version": "8.1.0",
-  "author": "Dav Glass <davglass@gmail.com>",
+  "author": "Nadi Co From => Dav Glass <davglass@gmail.com>",
   "bugs": {
     "web": "http://github.com/davglass/zipcodes/issues"
   },
@@ -10,7 +10,7 @@
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "http://github.com/davglass/zipcodes.git"
+    "url": "http://github.com/nadiTime/zipcodes.git"
   },
   "scripts": {
     "test": "istanbul cover --print both -- vows --spec ./tests/lookup.js"
